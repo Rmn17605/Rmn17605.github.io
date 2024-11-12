@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Blog</title>
+    </head>
+    <center>
+    <body>
+    <style>
+        body{
+            margin: 37px;
+        }
+ #FoodFight{
+     color: rgb(31, 60, 207);
+     font-size: 2em;
+     font-family: fantasy;
+ }
+ #CrazyDay{
+     color: rgb(38, 120, 158);
+     font-family: Sans-Serif;
+     font-size: 2em;
+
+ }
+
+    </style>
+        
+        <h1>Roman's blog</h1>
+
+        <h3>Contents</h3>
+        <ul>
+            
+            <a href="#FoodFight">First post!</a>
+            <br>
+            <a href="#CrazyDay">Second Post</a>
+        </ul>
+        
+        <h2 id="FoodFight">Food Fight at school!</h2>
+        <h6>10/5/24</h6>
+        
+        <p id="FoodFight-Pgraph">Today was a crazy day at school. A food fight broke out and everyone got involved. Opened Zee Zee apple sauces flew across the cafeteria and hit random people. People started getting angry and got spoons full of hot 'n ready mashed potatoes. They flung their food at them with all the leverage from the spoon. People were going back and forth, with more and more joining as things went on. Some stayed back and recorded, while others participated. Only a few were caught, which was pretty suprising. Crazy day, all I could say.</p>
+        <div>
+            
+            <h2 id="CrazyDay">Crazy day at School!</h2>
+            <h6>11/3/24</h6>
+            <p>Another crazy day happened at my school today. Some kid pulled a fire alarm on purpose and made everyone run out the school. Horrible as it was, it got worse. Since it was a thundering day outside, everyone was getting wet and soaked, but that's still not all. There were people coming out these big black vans just kidnapping people. They took about 20 different people, and drove off. Later that day there were helicopters surrounding the school and even more people went missing. I wonder what happened to all those kids.</p>
+        </div>
+        
+        
+    </body>
+    </center>
+</html>
