@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Event invite</title>
+        
+        <style>
+            h1{
+                color: rgb(155, 186, 18);
+                
+            }
+            body{
+                font-family: helvetica;
+                padding: 5px;
+               
+            }
+            h2{
+                color: rgb(117, 45, 173);
+                
+            }
+            ul{
+                overflow: scroll;
+                width: 34%;
+                height: 254px;
+                background-color: rgb(152, 203, 230);
+            }
+        </style>
+    </head>
+    <body>
+        
+        <h1>You're invited!</h1>
+        <h2>To the Lights Out Mansion Party!</h2>
+        
+        <p><em>The details:</em></p>
+        <ul>
+            <li>Theme: glow in the dark</li>
+            <li>Main Street 123, 27622</li>
+            <li>Party from 9:00pm-2:00am</li>
+            <li>Bring neon bracelets!</li>
+            <li>King Von will be there!</li>
+            <li>Open invite anyone from 14-19 years old</li>
+            <li>Food & snacks will be provided</li>
+            <li>Pool, tennis/baksetball court, go karts, game room & more</li>
+            <li>Metal detectors will be used</li>
+            <li>Further information may be provided</li>
+            <li>If party gets too crowded, it may be canceled</li>
+        </ul>
+        
+    </body>
+</html>
